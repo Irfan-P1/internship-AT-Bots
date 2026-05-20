@@ -1,0 +1,2 @@
+Invoking command in '/home/irfan/Desktop/atbots_ws/build/publisher.cpp': /usr/bin/cmake /home/irfan/Desktop/atbots_ws/src/greeting/scripts/publisher.cpp -DCMAKE_INSTALL_PREFIX=/home/irfan/Desktop/atbots_ws/install/publisher.cpp
+Invoked command in '/home/irfan/Desktop/atbots_ws/build/publisher.cpp' returned '1': /usr/bin/cmake /home/irfan/Desktop/atbots_ws/src/greeting/scripts/publisher.cpp -DCMAKE_INSTALL_PREFIX=/home/irfan/Desktop/atbots_ws/install/publisher.cpp
